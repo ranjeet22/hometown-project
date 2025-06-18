@@ -30,7 +30,7 @@ The website is divided into several informative sections:
 
 If you've deployed the site (e.g., on GitHub Pages or Netlify), you can add the link here:
 
-[🔗 Click here to view the website](https://yourusername.github.io/repo-name)
+[🔗 Click here to view the website](https://hometown-ranjeet.netlify.app/)
 
 ---
 
