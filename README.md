@@ -26,9 +26,7 @@ The website is divided into several informative sections:
 
 ---
 
-## 🌐 Live Demo (optional)
-
-If you've deployed the site (e.g., on GitHub Pages or Netlify), you can add the link here:
+## 🌐 Live Demo
 
 [🔗 Click here to view the website](https://hometown-ranjeet.netlify.app/)
 
